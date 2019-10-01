@@ -3,6 +3,12 @@ import java.io.OutputStream;
 import java.net.Socket;
 import java.util.Scanner;
 
+/**
+ *
+ * @author Marcos V A Delgado Junior
+ */
+
+
 public class Cliente {
 
     public static void main(String[] args) {
