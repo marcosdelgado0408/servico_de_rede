@@ -1,5 +1,5 @@
 # servico_de_rede
-aplication that provides a network service, using http protocol.
+Aplication that provides a network service, using http protocol.
 
 The intermediate application betwen the client and the server, should
 verify if the html requested, using protocol http, is not malicious, searching
