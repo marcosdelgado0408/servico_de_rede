@@ -5,6 +5,12 @@ import java.nio.file.Files;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
+/**
+ *
+ * @author Marcos V A Delgado Junior
+ */
+
+
 /*
 O seridor vai guardar diversos sites -> que serão enviados para
 uma aplicação intermediaria e ela vai dizer para o cliente se o site
